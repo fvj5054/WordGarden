@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  WordGarden
 //
-//  Created by Francisco Valencia on 3/19/25.
+//  Created by Francisco Valencia Jr. on 3/19/25.
 //
 
 import SwiftUI

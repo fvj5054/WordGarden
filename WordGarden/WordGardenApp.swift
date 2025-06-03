@@ -2,7 +2,7 @@
 //  WordGardenApp.swift
 //  WordGarden
 //
-//  Created by Student1 on 4/7/25.
+//  Created by Francisco Valencia Jr. on 4/7/25.
 //
 
 import SwiftUI
